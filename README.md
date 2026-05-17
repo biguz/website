@@ -7,7 +7,8 @@ It has been established to ensure uninterrupted access for our users and to main
 If you are looking for the official platform, please follow the verified link below to avoid phishing attempts and unauthorized third-party resources:
 
 👉 **[Access the official biguz.net website](https://biguz.net)**
-[Twitter](https://x.com/biguz3)
+
+**[Twitter](https://x.com/biguz3)**
 *Please bookmark this page to stay updated on current domain names and official mirrors.*
 
 ---
