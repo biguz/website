@@ -8,7 +8,36 @@ If you are looking for the official platform, please follow the verified link be
 
 👉 **[Access the official biguz.net website](https://biguz.net)**
 
+### Active Domains and Subdomains
+
+The following list contains the active localized subdomains and regional domains for the project, mapped by their `hreflang` configuration:
+
+* **[biguz.net](https://biguz.net/)** — Main Version (English / `default`)
+* **[espanol.biguz.net](https://espanol.biguz.net/)** — Spanish version (`es`)
+* **[fr.biguz.net](https://fr.biguz.net/)** — French version (`fr`)
+* **[nl.biguz.net](https://nl.biguz.net/)** — Dutch version (`nl`)
+* **[it.biguz.net](https://it.biguz.net/)** — Italian version (`it`)
+* **[pt.biguz.net](https://pt.biguz.net/)** — Portuguese version (`pt`)
+* **[ar.biguz.net](https://ar.biguz.net/)** — Arabic version (`ar`)
+* **[vi.biguz.net](https://vi.biguz.net/)** — Vietnamese version (`vi`)
+* **[el.biguz.net](https://el.biguz.net/)** — Greek version (`el`)
+* **[he.biguz.net](https://he.biguz.net/)** — Hebrew version (`he`)
+* **[id.biguz.net](https://id.biguz.net/)** — Indonesian version (`id`)
+* **[zh.biguz.net](https://zh.biguz.net/)** — Chinese version (`zh`)
+* **[pl.biguz.net](https://pl.biguz.net/)** — Polish version (`pl`)
+* **[th.biguz.net](https://th.biguz.net/)** — Thai version (`th`)
+* **[tr.biguz.net](https://tr.biguz.net/)** — Turkish version (`tr`)
+* **[uk.biguz.net](https://uk.biguz.net/)** — Ukrainian version (`uk`)
+* **[hr.biguz.net](https://hr.biguz.net/)** — Croatian version (`hr`)
+* **[cs.biguz.net](https://cs.biguz.net/)** — Czech version (`cs`)
+* **[sv.biguz.net](https://sv.biguz.net/)** — Swedish version (`sv`)
+* **[ja.biguz.net](https://ja.biguz.net/)** — Japanese version (`ja`)
+* **[bg.biguz.net](https://bg.biguz.net/)** — Bulgarian version (`bg`)
+* **[biguz.in](https://biguz.in/)** — Regional domain for India (Hindi / `hi`)
+
+
 **[Twitter](https://x.com/biguz3)**
+
 *Please bookmark this page to stay updated on current domain names and official mirrors.*
 
 ---
