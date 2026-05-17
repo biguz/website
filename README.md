@@ -9,3 +9,11 @@ If you are looking for the official platform, please follow the verified link be
 👉 **[Access the official biguz.net website](https://biguz.net)**
 
 *Please bookmark this page to stay updated on current domain names and official mirrors.*
+
+---
+
+### ⚠️ Region Access Notice
+
+Please note that user access to the website from **CN, DE, KP, KR, RU, GB, and KZ** is currently restricted. This limitation is due to provider-level blocks imposed by the respective local governments. 
+
+If you are accessing from these countries, you may need to use alternative connection methods (such as a VPN or a proxy) to reach the main server.
