@@ -22,4 +22,4 @@ If you are accessing from these countries, you may need to use alternative conne
 
 If you want to support the project, the best way to help us grow is by spreading the word. You can share links to your favorite videos on your social media profiles, forums, or blogs. 
 
-When sharing, please ensure that your posts comply with the internal terms of service and community guidelines of the respective social platforms. Remember biguz.net - adult only platform
+When sharing, please ensure that your posts comply with the internal terms of service and community guidelines of the respective social platforms. Remember biguz.net - platform for adults only!
