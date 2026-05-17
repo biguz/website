@@ -36,7 +36,13 @@ The following list contains the active localized subdomains and regional domains
 * **[biguz.in](https://biguz.in/)** — Regional domain for India (Hindi / `hi`)
 
 
-**[Twitter](https://x.com/biguz3)**
+**[Official Twitter](https://x.com/biguz3)**
+
+### Redirection of Removed Subdomains
+
+To maintain traffic quality and ensure a better user experience, subdomains with low-quality translation scores have been decommissioned. 
+
+All video pages from these removed subdomains now permanently redirect (`301 Redirect`) to the main English version of the website (`biguz.net`).
 
 *Please bookmark this page to stay updated on current domain names and official mirrors.*
 
